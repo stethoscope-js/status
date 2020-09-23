@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/koj-co/status.git"
+    "url": "git+https://github.com/stethoscope-js/status.git"
   },
   "keywords": [
     "status",
@@ -25,9 +25,9 @@
   "author": "Anand Chowdhary <mail@anandchowdhary.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/koj-co/status/issues"
+    "url": "https://github.com/stethoscope-js/status/issues"
   },
-  "homepage": "https://github.com/koj-co/status#readme",
+  "homepage": "https://github.com/stethoscope-js/status#readme",
   "devDependencies": {
     "@semantic-release/git": "^9.0.0",
     "@types/chart.js": "^2.9.23",
