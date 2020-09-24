@@ -5,7 +5,7 @@
     "slug": "stethoscope-docs",
     "status": "up",
     "uptime": "100.00",
-    "time": 119
+    "time": 108
   },
   {
     "name": "Stethoscope Embed",
@@ -13,6 +13,6 @@
     "slug": "stethoscope-embed",
     "status": "up",
     "uptime": "100.00",
-    "time": 35
+    "time": 32
   }
 ]
