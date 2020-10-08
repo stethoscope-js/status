@@ -18,8 +18,8 @@ _This section is updated automatically when the status of any site changes._
 
 | URL | Status | History | Response Time | Uptime |
 | --- | ------ | ------- | ------------- | ------ |
-| [Stethoscope Docs](https://stethoscope.js.org) | 🟩 Up | [stethoscope-docs.yml](https://github.com/stethoscope-js/status/commits/master/history/stethoscope-docs.yml) | <img alt="Response time graph" src="./graphs/stethoscope-docs.png" height="20"> 185ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fstethoscope-js%2Fstatus%2Fmaster%2Fapi%2Fstethoscope-docs%2Fuptime.json)
-| [Stethoscope Embed](https://stethoscope.js.org/embed/?repo=AnandChowdhary%2Flife&api=rescuetime-time-tracking&latest=top-overview.weeks) | 🟩 Up | [stethoscope-embed.yml](https://github.com/stethoscope-js/status/commits/master/history/stethoscope-embed.yml) | <img alt="Response time graph" src="./graphs/stethoscope-embed.png" height="20"> 49ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fstethoscope-js%2Fstatus%2Fmaster%2Fapi%2Fstethoscope-embed%2Fuptime.json)
+| [Stethoscope Docs](https://stethoscope.js.org) | 🟩 Up | [stethoscope-docs.yml](https://github.com/stethoscope-js/status/commits/master/history/stethoscope-docs.yml) | <img alt="Response time graph" src="./graphs/stethoscope-docs.png" height="20"> 184ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fstethoscope-js%2Fstatus%2Fmaster%2Fapi%2Fstethoscope-docs%2Fuptime.json)
+| [Stethoscope Embed](https://stethoscope.js.org/embed/?repo=AnandChowdhary%2Flife&api=rescuetime-time-tracking&latest=top-overview.weeks) | 🟩 Up | [stethoscope-embed.yml](https://github.com/stethoscope-js/status/commits/master/history/stethoscope-embed.yml) | <img alt="Response time graph" src="./graphs/stethoscope-embed.png" height="20"> 52ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fstethoscope-js%2Fstatus%2Fmaster%2Fapi%2Fstethoscope-embed%2Fuptime.json)
 
 <!--end: status pages-->
 
