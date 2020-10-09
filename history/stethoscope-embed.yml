@@ -1,6 +1,6 @@
 - url: https://stethoscope.js.org/embed/?repo=AnandChowdhary%2Flife&api=rescuetime-time-tracking&latest=top-overview.weeks
-- status: down
-- code: 0
-- responseTime: 0
-- lastUpdated: 2020-10-09T09:20:08.595Z
+- status: up
+- code: 200
+- responseTime: 92
+- lastUpdated: 2020-10-09T09:29:24.973Z
 - startTime: 2020-09-23T11:10:52.429Z
