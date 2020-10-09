@@ -3,16 +3,16 @@
     "name": "Stethoscope Docs",
     "url": "https://stethoscope.js.org",
     "slug": "stethoscope-docs",
-    "status": "down",
-    "uptime": "99.99",
-    "time": 169
+    "status": "up",
+    "uptime": "100.00",
+    "time": 167
   },
   {
     "name": "Stethoscope Embed",
     "url": "https://stethoscope.js.org/embed/?repo=AnandChowdhary%2Flife&api=rescuetime-time-tracking&latest=top-overview.weeks",
     "slug": "stethoscope-embed",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 48
+    "time": 50
   }
 ]
