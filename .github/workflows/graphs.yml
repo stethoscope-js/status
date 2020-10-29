@@ -5,16 +5,16 @@
 # Instead, propose changes to the template: https://github.com/upptime/upptime
 # Or, change your configuration in .upptimerc.yml
 
-name: Update Template CI
+name: Graphs CI
 on:
   schedule:
-    - cron: "0 0 * * 1"
+    - cron: "0 0 * * *"
   repository_dispatch:
-    types: [update_template]
+    types: [graphs]
   workflow_dispatch:
 jobs:
   release:
-    name: Build
+    name: Generate graphs
     runs-on: ubuntu-18.04
     steps:
       - name: Checkout
@@ -23,15 +23,17 @@ jobs:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT }}
       - name: Setup Node.js
-        uses: actions/setup-node@v2.1.1
+        uses: actions/setup-node@v2.1.2
         with:
           node-version: 14
-      - name: Update template
-        run: npx update-template https://github.com/upptime/upptime
+      - name: Update graphs
+        run: npx @upptime/graphs
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
       - name: Commit new data
-        uses: stefanzweifel/git-auto-commit-action@v4.5.1
+        uses: stefanzweifel/git-auto-commit-action@v4.7.2
         with:
-          commit_message: ":arrow_up: Update @upptime to latest"
+          commit_message: ":bento: Update graphs [skip ci]"
           commit_user_name: Koj Bot
           commit_user_email: bot@koj.co
           commit_author: Koj Bot <bot@koj.co>
