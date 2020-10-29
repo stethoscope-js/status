@@ -9,5 +9,6 @@ sites:
 assignees:
   - AnandChowdhary
 status-website:
+  baseUrl: /status
   logoUrl: https://stethoscope.js.org/branding/stethoscope-icon.svg
   name: Stethoscope
