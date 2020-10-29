@@ -12,3 +12,10 @@ status-website:
   baseUrl: /status
   logoUrl: https://stethoscope.js.org/branding/stethoscope-icon.svg
   name: Stethoscope
+  navbar:
+    - title: Status
+      href: /
+    - title: Stethoscope Home
+      href: https://stethoscope.js.org
+    - title: GitHub
+      href: https://github.com/stethoscope-js
