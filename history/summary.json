@@ -5,7 +5,15 @@
     "slug": "stethoscope-docs",
     "status": "up",
     "uptime": "99.98%",
-    "time": 161
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 165,
+    "timeDay": 122,
+    "timeWeek": 115,
+    "timeMonth": 153,
+    "timeYear": 165
   },
   {
     "name": "Stethoscope Embed",
@@ -13,6 +21,14 @@
     "slug": "stethoscope-embed",
     "status": "up",
     "uptime": "99.98%",
-    "time": 53
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 55,
+    "timeDay": 35,
+    "timeWeek": 27,
+    "timeMonth": 43,
+    "timeYear": 55
   }
 ]
