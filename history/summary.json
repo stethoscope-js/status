@@ -2,6 +2,7 @@
   {
     "name": "Stethoscope Docs",
     "url": "https://stethoscope.js.org",
+    "icon": "https://favicons.githubusercontent.com/https://stethoscope.js.org/",
     "slug": "stethoscope-docs",
     "status": "up",
     "uptime": "99.98%",
@@ -18,6 +19,7 @@
   {
     "name": "Stethoscope Embed",
     "url": "https://stethoscope.js.org/embed/?repo=AnandChowdhary%2Flife&api=rescuetime-time-tracking&latest=top-overview.weeks",
+    "icon": "https://favicons.githubusercontent.com/https://stethoscope.js.org/embed/?repo=AnandChowdhary%2Flife&api=rescuetime-time-tracking&latest=top-overview.weeks",
     "slug": "stethoscope-embed",
     "status": "up",
     "uptime": "99.98%",
