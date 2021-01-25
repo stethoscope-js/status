@@ -25,9 +25,9 @@
     "url": "https://stethoscope.js.org/embed/?repo=AnandChowdhary%2Flife&api=rescuetime-time-tracking&latest=top-overview.weeks",
     "icon": "https://favicons.githubusercontent.com/stethoscope.js.org",
     "slug": "stethoscope-embed",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -37,6 +37,7 @@
     "timeMonth": 69,
     "timeYear": 55,
     "dailyMinutesDown": {
+      "2021-01-25": 0,
       "2020-11-19": 8,
       "2020-10-09": 9
     }
