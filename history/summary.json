@@ -4,19 +4,19 @@
     "url": "https://stethoscope.js.org",
     "icon": "https://favicons.githubusercontent.com/stethoscope.js.org",
     "slug": "stethoscope-docs",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.57%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "96.93%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 179,
-    "timeDay": 156,
-    "timeWeek": 197,
-    "timeMonth": 198,
+    "timeDay": 137,
+    "timeWeek": 184,
+    "timeMonth": 194,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2022-06-21": 35
+      "2022-06-21": 44
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://stethoscope.js.org/embed/?repo=AnandChowdhary%2Flife&api=rescuetime-time-tracking&latest=top-overview.weeks",
     "icon": "https://favicons.githubusercontent.com/stethoscope.js.org",
     "slug": "stethoscope-embed",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "97.57%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "96.94%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 58,
-    "timeDay": 57,
-    "timeWeek": 47,
-    "timeMonth": 61,
+    "timeDay": 50,
+    "timeWeek": 45,
+    "timeMonth": 60,
     "timeYear": 58,
     "dailyMinutesDown": {
-      "2022-06-21": 35
+      "2022-06-21": 44
     }
   }
 ]
