@@ -6,17 +6,17 @@
     "slug": "stethoscope-docs",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "96.93%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "97.57%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 179,
-    "timeDay": 137,
-    "timeWeek": 184,
-    "timeMonth": 194,
+    "timeDay": 179,
+    "timeWeek": 193,
+    "timeMonth": 198,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2022-06-21": 44
+      "2022-06-21": 35
     }
   },
   {
@@ -26,17 +26,17 @@
     "slug": "stethoscope-embed",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "96.94%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "97.58%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 58,
-    "timeDay": 50,
-    "timeWeek": 45,
+    "timeDay": 67,
+    "timeWeek": 52,
     "timeMonth": 60,
     "timeYear": 58,
     "dailyMinutesDown": {
-      "2022-06-21": 44
+      "2022-06-21": 35
     }
   }
 ]
