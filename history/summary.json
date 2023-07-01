@@ -9,15 +9,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
+    "uptimeYear": "99.97%",
     "time": 182,
-    "timeDay": 133,
-    "timeWeek": 116,
-    "timeMonth": 153,
-    "timeYear": 182,
-    "dailyMinutesDown": {
-      "2022-07-01": 172
-    }
+    "timeDay": 64,
+    "timeWeek": 106,
+    "timeMonth": 149,
+    "timeYear": 183,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Stethoscope Embed",
@@ -29,14 +27,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
+    "uptimeYear": "99.97%",
     "time": 68,
-    "timeDay": 60,
-    "timeWeek": 72,
+    "timeDay": 20,
+    "timeWeek": 61,
     "timeMonth": 63,
-    "timeYear": 71,
-    "dailyMinutesDown": {
-      "2022-07-01": 172
-    }
+    "timeYear": 72,
+    "dailyMinutesDown": {}
   }
 ]
