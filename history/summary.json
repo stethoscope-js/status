@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/stethoscope.js.org.ico",
     "slug": "stethoscope-docs",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 164,
-    "timeDay": 63,
-    "timeWeek": 166,
-    "timeMonth": 159,
+    "timeDay": 109,
+    "timeWeek": 169,
+    "timeMonth": 158,
     "timeYear": 164,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 58,
-    "timeDay": 18,
+    "timeDay": 22,
     "timeWeek": 41,
-    "timeMonth": 56,
-    "timeYear": 58,
+    "timeMonth": 55,
+    "timeYear": 57,
     "dailyMinutesDown": {}
   }
 ]
