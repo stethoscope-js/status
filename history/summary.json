@@ -6,18 +6,16 @@
     "slug": "stethoscope-docs",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 211,
-    "timeDay": 306,
-    "timeWeek": 249,
-    "timeMonth": 385,
+    "timeDay": 355,
+    "timeWeek": 257,
+    "timeMonth": 382,
     "timeYear": 226,
-    "dailyMinutesDown": {
-      "2025-09-05": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Stethoscope Embed",
@@ -26,17 +24,15 @@
     "slug": "stethoscope-embed",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 61,
-    "timeDay": 78,
-    "timeWeek": 63,
-    "timeMonth": 81,
+    "timeDay": 82,
+    "timeWeek": 68,
+    "timeMonth": 79,
     "timeYear": 63,
-    "dailyMinutesDown": {
-      "2025-09-05": 12
-    }
+    "dailyMinutesDown": {}
   }
 ]
