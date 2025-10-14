@@ -1,7 +1,7 @@
 url: https://stethoscope.js.org
-status: up
-code: 200
-responseTime: 270
-lastUpdated: 2025-10-14T16:14:56.171Z
+status: down
+code: 403
+responseTime: 130
+lastUpdated: 2025-10-14T20:27:22.641Z
 startTime: 2020-09-23T11:10:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
